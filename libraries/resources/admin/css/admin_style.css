@@ -1,0 +1,39 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.nav {
+    background-color: white;
+    /* border-right: 5px #000 solid; */
+    height: 200vh;
+    /* width: 250px; */
+}
+
+.navbar {
+    /* margin-left: 250px; */
+    background-color: #000;
+}
+
+#sidebar .nav-item a:hover {
+    background-color: #000;
+    color: white;
+}
+
+#sidebar .nav-item a:focus {
+    background-color: #000;
+    color: white;
+}
+
+.side-header {
+    padding: 12px 0;
+    text-align: center;
+}
+
+#sidebar .nav-item {
+    color: #555;
+}
+
+.nav-link {
+    color: #555;
+}
+
